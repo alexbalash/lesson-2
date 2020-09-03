@@ -1,0 +1,84 @@
+body {
+    width: 1400px;
+    height: 590px;
+}
+
+.headline {
+    display: block;
+    height: 35px;
+    margin:107px 0px 0px;
+    font-size: 36px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+hr {
+    width: 64px;
+    height: 1px;
+    margin: 29px auto 0px;
+    background-color:#FF8B38;
+    border-color:#FF8B38;
+}
+
+.slogan {
+    display: block;
+    width: 361px;
+    height: 14px;
+    margin:0px auto;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+}
+
+.container {
+  height: 70px;
+  width: 70px;
+  margin:0 auto;
+  border: 3px solid orange;
+  border-radius: 50%;
+}
+
+.lightbulb {
+    width: 19px;
+    height: 28px;
+    margin:21px auto;     
+}
+
+.lightning {
+    width: 17px;
+    height:31px;
+    margin:19.5px auto;
+}
+
+.keyboard {
+    width:35px;
+    height:21px;
+    margin:24.5px auto;
+}
+
+.features {
+    display:inline-block;
+    width:375px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.desc {
+    margin:80px 10px 143px 106px;
+}
+
+.text {
+    width: 360px;
+    padding-top:9px;
+}
+
+.caption {
+    margin:29px auto 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
